@@ -65,3 +65,21 @@ Yes, some cra-sed people write games in sed.
 * `SedSokoban <http://aurelio.net/projects/sedsokoban/>`_
   by Aurelio Marinho Jargas under GPLv2
   (`YouTube <https://youtu.be/bg3x43E-yjo>`__)
+
+
+Uncategorized
+=============
+
+* `bucklespring <https://github.com/zevv/bucklespring>`_: Nostalgia
+  bucklespring IBM Model-M keyboard sound
+  by Ico Doornekamp under GPLv2
+  (`YouTube <https://youtu.be/21AuWT1lDMc>`__)
+  [C, OpenAL]
+  {Linux, Mac OS X}
+
+* `ratterplatter <https://github.com/vain/ratterplatter>`_: Don't you miss your
+  hard disk?
+  by Peter Hofmann under MIT
+  (`YouTube <https://youtu.be/PSjHgNZTW3w>`__)
+  [C, libao, opusfile, ``/proc/diskstats``]
+  {Linux}
