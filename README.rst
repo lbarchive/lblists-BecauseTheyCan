@@ -21,6 +21,20 @@ This list is published under CC0.
    :backlinks: top
 
 
+Shell
+=====
+
+Vim
+---
+
+* `Athame <https://github.com/ardagnir/athame>`_:
+  true Vim for shells
+  by James Kolb under GPLv3
+  (`GIF <https://i.imgur.com/74EoF4X.gif>`__)
+  [C]
+  {Linux, macOS, Windows (WSL), readline {Bash, GDB, Python, ...}, Zsh}
+
+
 Terminal Games
 ==============
 
