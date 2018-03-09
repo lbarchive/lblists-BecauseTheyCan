@@ -8,12 +8,15 @@ Open source projects make you ask that question, or gasp
 
 * *Wait, what?*,
 * *OMG!*,
-* *That's insane!*, etc.
+* *That's insane!*,
+* etc.
 
 They can be awesome or terribly horrendous ideas to do whatever they are trying
 to do.
 
-This list is published under CC0.
+This list is published under the CC0_.
+
+.. _CC0: LICENSE
 
 
 .. contents:: **The List**
@@ -89,7 +92,7 @@ Uncategorized
   by Ico Doornekamp under GPLv2
   (`YouTube <https://youtu.be/21AuWT1lDMc>`__)
   [C, OpenAL]
-  {Linux, Mac OS X}
+  {Linux, macOS}
 
 * `ratterplatter <https://github.com/vain/ratterplatter>`_: Don't you miss your
   hard disk?
