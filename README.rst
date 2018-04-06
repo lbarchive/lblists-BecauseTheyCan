@@ -24,6 +24,54 @@ This list is published under the CC0_.
    :backlinks: top
 
 
+Python
+======
+
+* `quasiquotes <https://github.com/llllllllll/quasiquotes>`_:
+  "I'd just like to interject for a moment..."
+  by Joe Jevnik under the GPLv2
+
+  .. code:: pycon
+
+    >>> from quasiquotes.c import c
+    >>> def f(a):
+    ...     with $c:
+    ...         printf("%ld\n", PyLong_AsLong(a));
+    ...         a = Py_None;
+    ...         Py_INCREF(a);
+    ...     return a
+    ...
+    >>> f(0), f(1)
+    (0, 1)
+
+You can ``goto`` hell
+---------------------
+
+* `goto for Python <http://entrian.com/goto/>`_
+  by Richie Hindle under the Python Software Foundation license
+  [Python 2.3+] {Linux, Windows}
+
+* `python-goto <https://github.com/snoack/python-goto>`_
+  by Sebastian Noack under Unlicense
+  [Python 2.6–3.6, PyPy]
+
+  .. code:: python
+
+    from goto import with_goto
+
+    @with_goto
+    def foobar(start, stop):
+
+        # do something
+        if is_borked():
+            goto .cleanup
+
+        # do something else
+
+        label .cleanup
+        # cleaning up
+
+
 Shell
 =====
 
