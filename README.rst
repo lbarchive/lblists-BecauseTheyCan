@@ -99,6 +99,7 @@ Awk-My-God!
   by Fedor Kalugin under MIT
   (`YouTube <https://youtu.be/klB1WVZ87Kw>`__)
 
+  .. figure:: https://github.com/TheMozg/awk-raycaster/blob/master/screenshot.png?raw=true
 
 
 In *sed*
